@@ -9,6 +9,6 @@ Talks during Golang Tunisian meetups
 
 - [Performance troubleshooting using pprof ](https://www.beautiful.ai/player/-M9-DyRXSutlc0w3q65B/Performance-troubleshooting-using-pprof)
 
-- [Testing external API's and databases calls]()
+- [Testing external API's and databases calls](https://github.com/Golang-Tunisia/talks/blob/master/2020/slide-testing-external-api.pdf)
 
 - [NO ONE IS AN ISLAND: Learnings from fortering a developers community]()
