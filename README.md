@@ -11,4 +11,4 @@ Talks during Golang Tunisian meetups
 
 - [Testing external API's and databases calls](https://github.com/Golang-Tunisia/talks/blob/master/2020/slide-testing-external-api.pdf)
 
-- [NO ONE IS AN ISLAND: Learnings from fortering a developers community]()
+- [No one is an island: learnings from fostering a developers community.](https://speakerdeck.com/thoeni/no-one-is-an-island-learnings-from-fostering-a-developers-community)
